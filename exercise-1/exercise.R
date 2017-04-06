@@ -1,13 +1,13 @@
 # Exercise 1: Creating and Indexing Vectors
 
 # Create a vector `first.ten` that has the values 10 through 20 in it (using the : operator)
-
+first.ten <- c(10:20)
 
 # Create a vector `next.ten` that has the values 21 through 30 in it (using the seq operator)
-
+next.ten <- c(21:30)
 
 # Create a vector `all.numbers` by combining the vectors `first.ten` and `next.ten`
-
+all.numbers <- C(first.ten, next.ten)
 
 # Create a variable `eleventh` that is equal to the 11th element in your vector `all.numbers`
 
